@@ -27,7 +27,7 @@ coverage
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)  day21
 .grunt
 zz
-# Bower dependency directory (https://bower.io/)
+# Bower dependency directory (https://bower.io/);;
 bower_components
 2323
 # node-waf configuration   
