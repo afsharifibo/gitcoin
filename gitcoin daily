@@ -91,7 +91,7 @@ xcsas
 .vuepress/dist
 asa
 # Serverless directories
-.serverless/
+.serverless/nmn
 
 # FuseBox cache
 .fusebox/
