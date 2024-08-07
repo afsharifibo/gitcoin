@@ -19,7 +19,7 @@ pids  43434
 lib-cov323sdsds
 
 # Coverage directory used by tools like istanbul  asas
-coverage   
+coverage   dfdf
 *.lcov   
 
 # nyc test coverage 
